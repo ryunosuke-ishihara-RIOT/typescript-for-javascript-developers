@@ -1,6 +1,6 @@
 export {};
 
-let name = 'typescript';
+let name = `typescript`;
 // console.log({ name });
 
 let isFinished: boolean = true;
