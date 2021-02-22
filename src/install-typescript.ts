@@ -1,2 +1,2 @@
 let message: string = "hello typescript";
-console.log(message);
+console.log({ message });
